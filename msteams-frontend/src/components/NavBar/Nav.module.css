@@ -1,0 +1,17 @@
+.navbar {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	box-sizing: border-box;
+}
+.logo {
+	display: flex;
+	align-items: center;
+	width: 124px;
+	cursor: pointer;
+}
+
+.logo img {
+	width: 100%;
+}
