@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-Video     https://www.youtube.com/watch?v=i1khOnYzViA
+Video     https://www.youtube.com/watch?v=i1khOnYzViA <br />
 App       https://fathomless-crag-81623.herokuapp.com/
 
 
